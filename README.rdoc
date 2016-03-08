@@ -1,0 +1,2 @@
+Students guess the image behind the squares. Teacher removes more squares to
+reveal parts of the image. 
